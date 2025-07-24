@@ -24,11 +24,11 @@ This bootcamp covers everything from React fundamentals to building full-stack a
 
 ## 📁 Project Structure
 
-|   # | Project                          | Tech Stack         | Description                                                |
-| --: | :------------------------------- | :----------------- | :--------------------------------------------------------- |
-|  01 | [Guitarla JS](./01-guitarla-js/) | React + Hooks      | Guitar e-commerce with cart, totals and localStorage       |
-|  02 | [Guitarla TS](./02-guitarla-ts/) | React + Typescript | Same app as above, using TypeScript and typed custom hooks |
-| ... | ...                              | ...                | ...                                                        |
+|   # | Project                                    | Tech Stack                    | Description                                                |
+| --: | :----------------------------------------- | :---------------------------- | :--------------------------------------------------------- |
+|  01 | [Guitarla JS](./01-guitarla-js/)           | React + Hooks                 | Guitar e-commerce with cart, totals and localStorage       |
+|  02 | [Guitarla TS](./02-guitarla-ts/)           | React + Typescript            | Same app as above, using TypeScript and typed custom hooks |
+|  03 | [Tip Calculator TS](./03-calculator-tips/) | React + TypeScript + Tailwind | Tip calculator with order system, state & hooks            |
 
 ## 🧠 Personal Objective
 
@@ -68,11 +68,11 @@ Este bootcamp cubre desde lo más básico hasta el desarrollo de aplicaciones co
 
 ## 📁 Estructura del repositorio
 
-| Nº  | Proyecto                         | Stack / Tema Principal | Descripción                                                  |
-| --- | -------------------------------- | ---------------------- | ------------------------------------------------------------ |
-| 01  | [Guitarla JS](./01-guitarla-js/) | React + Hooks          | Tienda de guitarras con carrito, totales y localStorage      |
-| 02  | [Guitarla TS](./02-guitarla-ts/) | React + Typescript     | Misma app que la anterior, usando TypeScript y hooks tipados |
-| 03  | ...                              | ...                    | ...                                                          |
+| Nº  | Proyecto                                   | Stack / Tema Principal        | Descripción                                                  |
+| --- | ------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
+| 01  | [Guitarla JS](./01-guitarla-js/)           | React + Hooks                 | Tienda de guitarras con carrito, totales y localStorage      |
+| 02  | [Guitarla TS](./02-guitarla-ts/)           | React + Typescript            | Misma app que la anterior, usando TypeScript y hooks tipados |
+| 03  | [Tip Calculator TS](./03-calculator-tips/) | React + TypeScript + Tailwind | Calculadora de propinas con gestión de ordenes               |
 
 ## 📝 Objetivo personal
 
